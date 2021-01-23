@@ -1,0 +1,11 @@
+id,name,description,unit_price,quantity,image
+1,Colchon luuna,El colchón mejor calificado de México. Balance perfecto entre suavidad y firmeza.,7000,60,images/colchon_luuna.png
+2,Almohada memory gel,Almohada de tamaño estándar adaptable a cualquier temporada por su espuma de microcápsulas de memory gel.,1000,1,images/almohada_memory_gel.png
+3,Sabanas,"Juego de sabanas tamaño individual color blanco elaboradas con textiles certificados que garantizan suavidad y frescura.",1400,50,images/sabanas.png
+4,Colchon luuna one,Colchón individual de última generación. Elegancia y tecnología con espumas de calidad.,13000,5,images/colchon_luuna_one.png
+5,Colchon luuna blue,Colchón individual con diseño funcional que combina soporte con alta absorción de impactos.,5000,36,images/colchon_luuna_blue.png
+6,Almohada plumas,Almohada de tamaño estándar elaborada con una especial selección de plumas de pato que brinda la firmeza necesaria,800,45,images/almohada_plumas.png
+7,Almohada lavanda,Descansa con la suavidad del memory foam y relájate con el aroma a lavanda.,800,780,images/almohada_lavanda.png
+8,Almohada memory foam,"Almohada ajustable de tamaño regular diseñada para brindar el mayor soporte confort y frescura.",600,500,images/almohada_memory_foam.png
+9,Luuna mini,Colchón para bebé tamaño regular color lila diseñado para el cuidado y descanso perfecto de tu bebé.,2300,1500,images/luuna_mini.png
+10,Base de cama,Diseñada para amantes de la elegancia. Especial para darle el soporte óptimo a tu colchón individual y que tu recámara luzca espectacular.,9000,8,images/base_cama.png
